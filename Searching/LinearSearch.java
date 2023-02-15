@@ -1,6 +1,6 @@
 package arnab.DSA;
 
-public class Ded_07_linearSearch {
+public class LinearSearch {
     static int findNum(int[] arr, int size, int key) {
         for (int i = 0; i < arr.length; i++) {
             if (key == arr[i]) {
