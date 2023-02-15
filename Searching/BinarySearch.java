@@ -1,6 +1,6 @@
 package arnab.DSA;
 
-public class Ded_08_binarySearch {
+public class BinarySearch {
     static int findNum(int[] arr, int size, int key) {
         int start = 0;
         int end = size - 1;
